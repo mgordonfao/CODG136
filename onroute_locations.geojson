@@ -1,0 +1,930 @@
+{
+  "type": "FeatureCollection",
+  "name": "ONroute locations",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-king-city",
+        "name": "King City",
+        "operator": "ONroute",
+        "highway": "400",
+        "highway_region": "400",
+        "direction": "Northbound",
+        "latitude": 43.89537,
+        "longitude": -79.55797,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": true,
+          "subway": true,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": false,
+          "nyf": true,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/king-city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55797,
+          43.89537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-innisfil",
+        "name": "Innisfil",
+        "operator": "ONroute",
+        "highway": "400",
+        "highway_region": "400",
+        "direction": "Southbound",
+        "latitude": 44.24591,
+        "longitude": -79.67127,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": true,
+          "subway": true,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": false,
+          "nyf": true,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/innisfil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.67127,
+          44.24591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-barrie",
+        "name": "Barrie",
+        "operator": "ONroute",
+        "highway": "400",
+        "highway_region": "400",
+        "direction": "Northbound",
+        "latitude": 44.35257,
+        "longitude": -79.68779,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": false,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": true,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/barrie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.68779,
+          44.35257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-newcastle",
+        "name": "Newcastle",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Westbound",
+        "latitude": 43.92141,
+        "longitude": -78.54016,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": false,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": false,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": false,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/newcastle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.54016,
+          43.92141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-port-hope",
+        "name": "Port Hope",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Eastbound",
+        "latitude": 43.94254,
+        "longitude": -78.4325,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": false,
+          "nyf": false,
+          "bjuice": true
+        },
+        "source_url": "https://www.onroute.ca/locations/port-hope"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4325,
+          43.94254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-trenton-north",
+        "name": "Trenton North",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Westbound",
+        "latitude": 44.11048,
+        "longitude": -77.66121,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": false,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": true,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/trenton-north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.66121,
+          44.11048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-trenton-south",
+        "name": "Trenton South",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Eastbound",
+        "latitude": 44.1098,
+        "longitude": -77.65741,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": false,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": true,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/trenton-south"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65741,
+          44.1098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-napanee",
+        "name": "Napanee",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Westbound",
+        "latitude": 44.28038,
+        "longitude": -76.8037,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/napanee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8037,
+          44.28038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-odessa",
+        "name": "Odessa",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Eastbound",
+        "latitude": 44.283582,
+        "longitude": -76.65674,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/odessa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.65674,
+          44.283582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-mallorytown-north",
+        "name": "Mallorytown North",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Westbound",
+        "latitude": 44.48987,
+        "longitude": -75.85694,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": false,
+          "subway": true,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": true,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/mallorytown-north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.85694,
+          44.48987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-mallorytown-south",
+        "name": "Mallorytown South",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Eastbound",
+        "latitude": 44.944389,
+        "longitude": -75.129083,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": false,
+          "subway": true,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": true,
+          "nyf": true,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/mallorytown-south"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.129083,
+          44.944389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-morrisburg",
+        "name": "Morrisburg",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Eastbound",
+        "latitude": 44.505602,
+        "longitude": -75.836373,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/morrisburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.836373,
+          44.505602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-ingleside",
+        "name": "Ingleside",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Westbound",
+        "latitude": 44.97328,
+        "longitude": -75.08143,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/ingleside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08143,
+          44.97328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-bainsville",
+        "name": "Bainsville",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 East",
+        "direction": "Westbound",
+        "latitude": 45.20222,
+        "longitude": -74.36277,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/bainsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36277,
+          45.20222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-cambridge-south",
+        "name": "Cambridge South",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 West",
+        "direction": "Eastbound",
+        "latitude": 43.43298,
+        "longitude": -80.24565,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": false,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": true,
+          "nyf": true,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/cambridge-south"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24565,
+          43.43298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-cambridge-north",
+        "name": "Cambridge North",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 West",
+        "direction": "Westbound",
+        "latitude": 43.43554,
+        "longitude": -80.24483,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": true,
+          "subway": true,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/cambridge-north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24483,
+          43.43554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-woodstock",
+        "name": "Woodstock",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 West",
+        "direction": "Eastbound",
+        "latitude": 43.06741,
+        "longitude": -80.79593,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": true,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": false,
+          "nyf": true,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/woodstock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.79593,
+          43.06741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-ingersoll",
+        "name": "Ingersoll",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 West",
+        "direction": "Westbound",
+        "latitude": 43.05713,
+        "longitude": -80.8151,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": false,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": false,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": false,
+          "subway": true,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/ingersoll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8151,
+          43.05713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-dutton",
+        "name": "Dutton",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 West",
+        "direction": "Eastbound",
+        "latitude": 42.64432,
+        "longitude": -81.560857,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": false,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": true,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/dutton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.560857,
+          42.64432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-west-lorne",
+        "name": "West Lorne",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 West",
+        "direction": "Westbound",
+        "latitude": 42.649582,
+        "longitude": -81.556848,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": false,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": true,
+          "aw": true,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/west-lorne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.556848,
+          42.649582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-tilbury-south",
+        "name": "Tilbury South",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 West",
+        "direction": "Eastbound",
+        "latitude": 42.274689,
+        "longitude": -82.400688,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/tilbury-south"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.400688,
+          42.274689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "onroute-tilbury-north",
+        "name": "Tilbury North",
+        "operator": "ONroute",
+        "highway": "401",
+        "highway_region": "401 West",
+        "direction": "Westbound",
+        "latitude": 42.27617,
+        "longitude": -82.401222,
+        "amenities": {
+          "washrooms": true,
+          "evChargers": true,
+          "gas": true,
+          "truckParking": true,
+          "freeWifi": true,
+          "cibcATM": true,
+          "seasonalPicnicAreas": true,
+          "petArea": true
+        },
+        "restaurants": {
+          "timHortons": true,
+          "starbucks": false,
+          "burgerKing": true,
+          "subway": false,
+          "onmarketConvenience": true,
+          "popeyes": false,
+          "aw": false,
+          "nyf": false,
+          "bjuice": false
+        },
+        "source_url": "https://www.onroute.ca/locations/tilbury-north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401222,
+          42.27617
+        ]
+      }
+    }
+  ]
+}
